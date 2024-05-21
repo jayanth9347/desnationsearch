@@ -1,0 +1,19 @@
+/* Write your CSS here */
+/* Write your CSS here */
+
+.background {
+  height: 100vh;
+}
+
+.imagebackground {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
